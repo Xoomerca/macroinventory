@@ -12,6 +12,11 @@ background: white;
 
 
 }
+.list-items{
+	background-color: #c6cbcf;
+	width: 350px;
+	
+}
 .responsive {
   width: 100%;
   max-width: 350px;
