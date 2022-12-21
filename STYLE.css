@@ -278,16 +278,16 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-border-pale-yellow,.w3-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.w3-border-pale-blue,.w3-hover-border-pale-blue:hover{border-color:#e7ffff!important}
 
 .floatwp{
-  position:fixed;
-  width:60px;
-  height:60px;
-  bottom:100px;
-  right:50px;
-  background-color:white;
-  color:#FFF;
-  border-radius:50px;
-  text-align:center;
-    font-size:30px;
-  box-shadow: 2px 2px 3px #999;
-    z-index:100;
-  }
+position:fixed;
+width:60px;
+height:60px;
+bottom:100px;
+right:26px;
+background-color:#ffffff;
+color:#FFF;
+border-radius:50px;
+text-align:center;
+  font-size:30px;
+box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
