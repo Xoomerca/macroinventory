@@ -276,3 +276,18 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-border-dark-grey,.w3-hover-border-dark-grey:hover,.w3-border-dark-gray,.w3-hover-border-dark-gray:hover{border-color:#616161!important}
 .w3-border-pale-red,.w3-hover-border-pale-red:hover{border-color:#ffe7e7!important}.w3-border-pale-green,.w3-hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .w3-border-pale-yellow,.w3-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.w3-border-pale-blue,.w3-hover-border-pale-blue:hover{border-color:#e7ffff!important}
+
+.floatwp{
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:100px;
+  right:50px;
+  background-color:white;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+    font-size:30px;
+  box-shadow: 2px 2px 3px #999;
+    z-index:100;
+  }
